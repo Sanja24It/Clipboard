@@ -155,7 +155,7 @@ main {
     flex-direction: row;
   }
 
-  #ios {
+  .ios {
     margin-bottom: 0rem;
     margin-right: 1rem;
   }
