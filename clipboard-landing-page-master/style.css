@@ -42,7 +42,7 @@ body {
   align-items: center;
 }
 
-#ios {
+.ios {
   background-color: #26baa4;
   color: #fff;
   padding: 1rem 3rem;
@@ -54,12 +54,12 @@ body {
   box-shadow: 0.02rem 0.2rem 0.2rem 0.02rem rgba(38, 186, 164, 0.4);
 }
 
-#ios:hover {
+.ios:hover {
   background-color: rgba(38, 186, 164, 0.8);
   cursor: pointer;
 }
 
-#mac {
+.mac {
   background-color: #6173ff;
   color: #fff;
   padding: 1rem 3rem;
@@ -70,7 +70,7 @@ body {
   box-shadow: 0.02rem 0.2rem 0.2rem 0.02rem rgba(97, 115, 255, 0.4);
 }
 
-#mac:hover {
+.mac:hover {
   background-color: rgba(97, 115, 255, 0.8);
   cursor: pointer;
 }
